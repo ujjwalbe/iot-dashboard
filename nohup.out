@@ -1,0 +1,227 @@
+Unknown command: '0.0.0.0:8000'
+Type 'manage.py help' for usage.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W005) URL namespace 'admin' isn't unique. You may not be able to reverse all URLs in this namespace
+
+System check identified 1 issue (0 silenced).
+[10/Jan/2021 11:15:14] "GET / HTTP/1.1" 302 0
+[10/Jan/2021 11:15:14] "GET /login/?next=/ HTTP/1.1" 200 9798
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 200 56842
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 200 5159
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 200 21219
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 200 63380
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 200 6667
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 200 15170
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 200 22052
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 200 6563
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 200 10765
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 200 2977
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 200 24410
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 200 7615
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 200 29731
+[10/Jan/2021 11:15:14] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 200 40312
+[10/Jan/2021 11:15:14] "GET /static/assets/css/volt.css HTTP/1.1" 200 919047
+[10/Jan/2021 11:15:14] "GET /static/assets/js/volt.min.js HTTP/1.1" 200 9852
+[10/Jan/2021 11:15:15] "GET /static/assets/img/illustrations/city.svg HTTP/1.1" 200 39115
+[10/Jan/2021 11:15:15] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 75728
+[10/Jan/2021 11:15:15] "GET /static/assets/img/favicon/favicon-32x32.png HTTP/1.1" 200 1775
+[10/Jan/2021 11:16:13] "POST /login/?next=/ HTTP/1.1" 200 9811
+[10/Jan/2021 11:16:18] "GET / HTTP/1.1" 302 0
+[10/Jan/2021 11:16:18] "GET /login/?next=/ HTTP/1.1" 200 9798
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 200 56842
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 200 5159
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 200 21219
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 200 63380
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 200 6667
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 200 22052
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 200 15170
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 200 6563
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 200 10765
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 200 7615
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 200 40312
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 200 2977
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 200 29731
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 200 24410
+[10/Jan/2021 11:16:19] "GET /static/assets/js/volt.min.js HTTP/1.1" 200 9852
+[10/Jan/2021 11:16:19] "GET /static/assets/css/volt.css HTTP/1.1" 200 919047
+[10/Jan/2021 11:16:19] "GET /static/assets/img/illustrations/city.svg HTTP/1.1" 200 39115
+[10/Jan/2021 11:16:19] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 75728
+[10/Jan/2021 11:16:20] "GET /static/assets/img/favicon/favicon-32x32.png HTTP/1.1" 200 1775
+Performing system checks...
+
+January 10, 2021 - 11:14:59
+Django version 2.2.10, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W005) URL namespace 'admin' isn't unique. You may not be able to reverse all URLs in this namespace
+
+System check identified 1 issue (0 silenced).
+[10/Jan/2021 11:20:04] "GET / HTTP/1.1" 302 0
+[10/Jan/2021 11:20:04] "GET /login/?next=/ HTTP/1.1" 200 9580
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/css/volt.css HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/js/volt.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/img/illustrations/city.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:20:04] "GET /static/assets/img/favicon/favicon-32x32.png HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /login/?next=/ HTTP/1.1" 200 9580
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/css/volt.css HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/js/volt.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/img/illustrations/city.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:20:18] "GET /static/assets/img/favicon/favicon-32x32.png HTTP/1.1" 200 1775
+Performing system checks...
+
+January 10, 2021 - 11:19:57
+Django version 2.2.10, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W005) URL namespace 'admin' isn't unique. You may not be able to reverse all URLs in this namespace
+
+System check identified 1 issue (0 silenced).
+[10/Jan/2021 11:21:53] "GET /login/?next=/ HTTP/1.1" 200 9580
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/css/volt.css HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/js/volt.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:21:53] "GET /static/assets/img/illustrations/city.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:21:54] "GET /static/assets/img/favicon/favicon-32x32.png HTTP/1.1" 200 1775
+[10/Jan/2021 11:22:04] "POST /login/?next=/ HTTP/1.1" 302 0
+[10/Jan/2021 11:22:04] "GET / HTTP/1.1" 200 16485
+[10/Jan/2021 11:22:04] "GET /static/assets/img/brand/dark.svg HTTP/1.1" 200 890
+[10/Jan/2021 11:22:04] "GET /static/assets/img/brand/light.svg HTTP/1.1" 200 450
+[10/Jan/2021 11:22:04] "GET /static/assets/img/team/profile-picture-3.jpg HTTP/1.1" 200 49948
+[10/Jan/2021 11:22:12] "GET /bootstrap-tables.html HTTP/1.1" 200 37353
+[10/Jan/2021 11:22:12] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+[10/Jan/2021 11:22:12] "GET /static/assets/img/flags/united-states-of-america.svg HTTP/1.1" 200 2242
+[10/Jan/2021 11:22:12] "GET /static/assets/img/flags/canada.svg HTTP/1.1" 200 1171
+[10/Jan/2021 11:22:12] "GET /static/assets/img/flags/united-kingdom.svg HTTP/1.1" 200 2538
+[10/Jan/2021 11:22:12] "GET /static/assets/img/flags/france.svg HTTP/1.1" 200 803
+[10/Jan/2021 11:22:12] "GET /static/assets/img/flags/japan.svg HTTP/1.1" 200 616
+[10/Jan/2021 11:22:12] "GET /static/assets/img/flags/germany.svg HTTP/1.1" 200 944
+[10/Jan/2021 11:22:12] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 75336
+Performing system checks...
+
+January 10, 2021 - 11:21:47
+Django version 2.2.10, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W005) URL namespace 'admin' isn't unique. You may not be able to reverse all URLs in this namespace
+
+System check identified 1 issue (0 silenced).
+[10/Jan/2021 11:26:47] "GET /bootstrap-tables.html HTTP/1.1" 200 37350
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/css/volt.css HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/brand/dark.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/brand/light.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/team/profile-picture-3.jpg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/js/volt.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/flags/united-kingdom.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/flags/france.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/flags/united-states-of-america.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/flags/canada.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/flags/japan.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:47] "GET /static/assets/img/flags/germany.svg HTTP/1.1" 304 0
+[10/Jan/2021 11:26:48] "GET /static/assets/img/favicon/favicon-32x32.png HTTP/1.1" 200 1775
+[10/Jan/2021 11:26:51] "GET /transactions.html HTTP/1.1" 200 40854
+[10/Jan/2021 11:26:54] "GET /transactions.html HTTP/1.1" 200 40854
+[10/Jan/2021 11:27:05] "GET /transactions.html HTTP/1.1" 200 40854
+[10/Jan/2021 11:27:29] "POST /login/?next=/ HTTP/1.1" 302 0
+[10/Jan/2021 11:27:29] "GET / HTTP/1.1" 200 16482
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/notyf/notyf.min.css HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/css/volt.css HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/popper.js/dist/umd/popper.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/onscreen/dist/on-screen.umd.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/nouislider/distribute/nouislider.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/jarallax/dist/jarallax.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/countup.js/dist/countUp.umd.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/notyf/notyf.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/chartist/dist/chartist.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/vanillajs-datepicker/dist/js/datepicker.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/simplebar/dist/simplebar.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/js/volt.min.js HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/img/brand/light.svg HTTP/1.1" 200 450
+[10/Jan/2021 11:27:29] "GET /static/assets/img/brand/dark.svg HTTP/1.1" 200 890
+[10/Jan/2021 11:27:29] "GET /static/assets/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+[10/Jan/2021 11:27:29] "GET /static/assets/img/team/profile-picture-3.jpg HTTP/1.1" 200 49948
+[10/Jan/2021 11:27:41] "GET /transactions.html HTTP/1.1" 200 40854
+[10/Jan/2021 11:27:47] "GET /transactions.html HTTP/1.1" 200 40854
+[10/Jan/2021 11:27:55] "GET /transactions.html HTTP/1.1" 200 40854
+Performing system checks...
+
+January 10, 2021 - 11:26:42
+Django version 2.2.10, using settings 'core.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
