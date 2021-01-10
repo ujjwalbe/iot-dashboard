@@ -1,0 +1,61 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Dashboard {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+    <main class="content">
+
+        {% include 'includes/navigation.html' %}
+
+        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center py-4">
+            <div class="btn-toolbar dropdown">
+                <button class="btn btn-primary btn-sm mr-2 dropdown-toggle"  aria-haspopup="true" aria-expanded="false">
+                    <span class="fas fa-plus mr-2"></span>New District
+                </button>
+            </div>
+            <div class="btn-group">
+                <button type="button" class="btn btn-sm btn-outline-primary">Share</button>
+                <button type="button" class="btn btn-sm btn-outline-primary">Export</button>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-12 mb-4">
+                <div class="card bg-yellow-alt shadow-sm">
+                    <div class="card-header d-flex flex-row align-items-center flex-0">
+                        <div class="d-block">
+                            <div class="h5 font-weight-normal mb-2">Power Consumed</div>
+                            <h2 class="h3">10,567 Watt</h2>
+                            <div class="small mt-2"> 
+                                <span class="font-weight-bold mr-2">Yesterday</span>                              
+                                <span class="fas fa-angle-up text-success"></span>                                   
+                                <span class="text-success font-weight-bold">10.57%</span>
+                            </div>
+                        </div>
+                        <div class="d-flex ml-auto">
+                            <a href="#" class="btn btn-secondary text-dark btn-sm mr-2">Month</a>
+                            <a href="#" class="btn btn-primary btn-sm mr-3">Week</a>
+                        </div>
+                    </div>
+                    <div class="card-body p-2">
+                        <div class="ct-chart-sales-value ct-double-octave ct-series-g"></div>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+
+        {% include 'includes/footer.html' %}
+
+    </main>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+{% endblock javascripts %}
